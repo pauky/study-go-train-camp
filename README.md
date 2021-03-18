@@ -17,3 +17,6 @@ web服务标准工程
 3. [Go语言实践 - concurrency](https://xie.infoq.cn/article/a0eaf231969395cde0299c420)
 4. [Go 工程化实践](https://xie.infoq.cn/article/23728e81f72f642c05fd66d86)
 5. [评论系统架构设计](https://xie.infoq.cn/article/167fac0845845ee26fdd56a3f)
+6. [微服务可用性设计](https://xie.infoq.cn/article/34c8a7355bb8e5ec58f71406b)
+7. [分布式缓存&分布式事务](https://xie.infoq.cn/article/dd6d89d008f62c8ee71fce774)
+8. [网络编程](https://xie.infoq.cn/article/2df9b94a414cd5046195b7dea)

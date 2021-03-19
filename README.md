@@ -20,3 +20,6 @@ web服务标准工程
 6. [微服务可用性设计](https://xie.infoq.cn/article/34c8a7355bb8e5ec58f71406b)
 7. [分布式缓存&分布式事务](https://xie.infoq.cn/article/dd6d89d008f62c8ee71fce774)
 8. [网络编程](https://xie.infoq.cn/article/2df9b94a414cd5046195b7dea)
+9. [日志 & 指标 & 链路追踪](https://xie.infoq.cn/article/eca2d83189600d9655ebfd626)
+10. [DNS & CDN & 多活架构](https://xie.infoq.cn/article/1761d04b55fed11fd618c2555)
+11. [go runtime](https://xie.infoq.cn/article/b56d95f9928eca1da2ad77f0a)
